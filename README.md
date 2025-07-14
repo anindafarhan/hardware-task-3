@@ -46,6 +46,7 @@ Step-by-Step Instructions
 
 
 Observations
+
 1.When Gate is connected to VCC or source is connected to ground, the MOSFET turns ON and the LED lights up.
 
 2.When Gate is disconnected or grounded or source is not connected to ground, the MOSFET turns OFF and the LED stays off.
