@@ -16,9 +16,10 @@ Components Used
 
 5.Jumper wires
 
-Power source (9V battery)
+5.Power source (9V battery)
 
 Circuit Diagram Explanation
+
 1.VCC → 220Ω resistor → LED anode
 
 2.LED cathode → MOSFET Drain
