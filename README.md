@@ -6,7 +6,7 @@ This project demonstrates the basic functionality of an N-Channel MOSFET used as
 
 Components Used
 
-1.N-Channel MOSFET (IRF540N)
+1.N-Channel MOSFET (IRFZ44N)
 
 2.LED (green)
 
